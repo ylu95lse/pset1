@@ -10,15 +10,15 @@ The goal of assignment 1 is to make sure you know how to work with GitHub Classr
 
 1. Get started with GitHub
 
-  * Install GitHub Desktop if you haven't already. If you are having trouble, follow the instructions here: https://help.github.com/desktop/guides/getting-started-with-github-desktop/
+    * Install GitHub Desktop if you haven't already. If you are having trouble, follow the instructions here: https://help.github.com/desktop/guides/getting-started-with-github-desktop/
   
-  * Set up an account with GitHub.
+    * Set up an account with GitHub.
   
 2. Clone the [lectures repository](https://github.com/lse-my472/lectures) and compile the RMarkdown files for week 1.
 
-  * You can "clone" the repository using the buttons found to the right side of your browser window as you view this repository.  This is the button labelled "Clone in Desktop".
+    * You can "clone" the repository using the buttons found to the right side of your browser window as you view this repository.  This is the button labelled "Clone in Desktop".
   
-  * After compiling the RMarkdown file, practice staging and pushing the compiled files to your own (forked) version of that repository.
+    * After compiling the RMarkdown file, practice staging and pushing the compiled files to your own (forked) version of that repository.
   
 3. Practice the GitHub classroom workflow.
 
