@@ -33,3 +33,10 @@ The goal of this first problem set is to make sure you know how to work with Git
     * Fix the RMarkdown file `RMarkdown-practice.Rmd` so that it can be compiled. Stage, commit, and push this change.
 
 Congratulations, you are finished!
+
+4.  OPTIONAL: Create a personal web page.
+
+    * Clone a website repository, modify it, and publish a personal webpage.  You can follow the steps described in:
+
+    Jim McGlone, "[Creating and Hosting a Personal Site on GitHub:
+     A step-by-step beginner's guide to creating a personal website and blog using Jekyll and hosting it for free using GitHub Pages.](http://jmcglone.com/guides/github-pages/)".
