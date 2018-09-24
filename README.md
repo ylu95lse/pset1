@@ -4,7 +4,7 @@
 ## Problem Set 1, MT2018
 ---
 
-The goal of assignment 1 is to make sure you know how to work with GitHub Classroom in order to access, complete, and submit assignments.
+The goal of this first problem set is to make sure you know how to work with GitHub Classroom in order to access, complete, and submit assignments. You will not be evaluated on this assignment.
 
 **Deadline:** Submission not required
 
