@@ -14,9 +14,9 @@ The goal of this first problem set is to make sure you know how to work with Git
   
     * Set up an account with GitHub.
   
-2. Clone the [lectures repository](https://github.com/lse-my472/lectures) and compile the RMarkdown files for week 1.
+2. Fork and clone the [lectures repository](https://github.com/lse-my472/lectures) and compile the RMarkdown files for week 1.
 
-    * You can "clone" the repository using the buttons found to the right side of your browser window as you view this repository.  This is the button labelled "Clone in Desktop".
+    * You can "fork" and then "clone" the repository using the buttons found to the right side of your browser window as you view this repository.  This is the button labelled "Clone in Desktop".
   
     * After compiling the RMarkdown file, practice staging and pushing the compiled files to your own (forked) version of that repository.
   
