@@ -33,7 +33,7 @@ The goal of this first problem set is to make sure you know how to work with Git
 
     *  Access the GitHub Classroom for assignment 1 through:
 
-          [https://classroom.github.com/a/CSEdQujE](https://classroom.github.com/a/ CSEdQujE)
+          [https://classroom.github.com/a/eP8zHQIG](https://classroom.github.com/a/eP8zHQIG)
 
        Click on "accept this assignment" to set up the repository for this part of the assignment.  
 
