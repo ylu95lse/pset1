@@ -12,15 +12,15 @@ The goal of this first problem set is to make sure you know how to work with Git
 
 1. Get started with GitHub
 
-    *  This is your personal fork of the problem set (it ends with your GitHub username - only if you work with GitHub Classroom) — for example, mine is _problem-set-1-mblukac_ and I can access it via [https://github.com/lse-my472/problem-set-1-mblukac](https://github.com/lse-my472/problem-set-1-mblukac).
+    *  This is your personal fork of the problem set.
     
     *  It is your own "fork" of the repository that we provided to you and you can edit it as much as you want.
     
-    *  When you finish your work here and commit and push all the changes, we will be able to access them and give you comments. If you get stuck with your assignment, you can commit and push your code at any time and we can provide feedback on your work.
+    *  When you finish your work here and commit and push all the changes, we will be able to access them and give you comments. If you get stuck with your assignment, you can commit and push your code at any time and we can provide feedback to your work.
   
 2. Create a local clone
 
-    *  Your "fork" lives on GitHub, but you can "clone" a local copy on your computer. This is generally what you want to do when you write computer code. After making adjustments locally on your machine, you can commit and push all the changes to GitHub.
+    *  Your "fork" lives on GitHub, but you can "clone" a local copy on your personal computer. This is generally what you want to do when you write computer code. After making adjustments locally on your machine, you can commit and push all the changes back to GitHub.
     
     *  Now "clone" the repository using the buttons found to the right side of your browser window as you view this repository (green "__Code__" button).  Use the button labelled "Clone in Desktop", and create a (local) copy on your local drive.
     
@@ -32,22 +32,19 @@ The goal of this first problem set is to make sure you know how to work with Git
         
         or you can do this directly in __RStudio__: 
         
-        ```bash
-        File -> New Project... -> Version Control -> Git -> Repository URL: [paste the URL]
-        
-        -> [Create Project]
         ```
-  
+        File -> New Project... -> Version Control -> Git -> Repository URL: [paste the URL] -> [Create Project]
+        ```
   
     *  Go to your local clone and open `information.md` (you can use RStudio or any text editor). Fill in your information.
     
     *  Save the file locally. We now have to stage, commit and push the changed file to your own (forked) version of the repository on GitHub.
     
-         If you open GitHub Desktop, you should see the changes there. Add a comment, click **Commit** and **Push**
+         If you open GitHub Desktop, you should see the changes there. Add a comment, click "Commit" and "Push"
          
-         If you work in RStudio, find "Git" in your upper-right pane. The file "information.md" should occur there. Tick "staged", click "Commit" and push with the green up-arrow.
+         If you work in RStudio, find "Git" in your upper-right pane. The file "information.md" should occur there. Tick "staged", click "Commit" (add a comment) and push with the green up-arrow.
          
-    *  You can check whether it worked by opening GitHub in your browser and visiting your repository. The file "information.md" should now contain your information. (Sometimes it takes a few seconds to upload.)
+    *  You can check whether it worked by opening GitHub in your browser and visiting your repository. The file `information.md` should now contain your information. (Sometimes it takes a few seconds to upload.)
   
 3. Practice the GitHub workflow.
 
