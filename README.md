@@ -4,7 +4,7 @@
 ## Problem Set 1
 ---
 
-The goal of this first problem set is to make sure you know how to work with GitHub Classroom in order to access, complete, and submit assignments. You will not be evaluated on this problem set.
+The goal of this first problem set is to make sure you know how to work with GitHub Classroom in order to access, complete, and submit assignments. You will not be evaluated on problem sets.
 
 **Deadline:** Submission not required
 
