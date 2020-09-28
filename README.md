@@ -8,42 +8,64 @@ The goal of this first problem set is to make sure you know how to work with Git
 
 **Deadline:** Submission not required
 
+---
+
 1. Get started with GitHub
 
-    *  Install GitHub Desktop if you haven't already. If you are having trouble, follow the instructions here: https://help.github.com/desktop/guides/getting-started-with-github-desktop/
+    *  This is your personal fork of the problem set (it ends with your GitHub username - only if you work with GitHub Classroom) — for example, mine is _problem-set-1-mblukac_ and I can access it via [https://github.com/lse-my472/problem-set-1-mblukac](https://github.com/lse-my472/problem-set-1-mblukac).
+    
+    *  It is your own "fork" of the repository that we provided to you and you can edit it as much as you want.
+    
+    *  When you finish your work here and commit and push all the changes, we will be able to access them and give you comments. If you get stuck with your assignment, you can commit and push your code at any time and we can provide feedback on your work.
   
-    *  Set up an account with GitHub.
-  
-2. Fork and clone the [MY472 home page repository](https://github.com/lse-my472/lse-my472.github.io).
+2. Create a local clone
 
-    *  You can "fork" the repository using the "Fork" button in the upper right.  This will copy a version of this repository to a "fork" repo that will be created in your GitHub account.
+    *  Your "fork" lives on GitHub, but you can "clone" a local copy on your computer. This is generally what you want to do when you write computer code. After making adjustments locally on your machine, you can commit and push all the changes to GitHub.
     
-    *  Now "clone" the repository using the buttons found to the right side of your browser window as you view this repository.  This is the button labelled "Clone in Desktop", and will create a (local) copy on your local drive.
+    *  Now "clone" the repository using the buttons found to the right side of your browser window as you view this repository (green "__Code__" button).  Use the button labelled "Clone in Desktop", and create a (local) copy on your local drive.
     
-        You could also have done this from a terminal window on your local machine using
+        You could also have done this from a terminal window on your local machine using (the URL is from the green "Code" button)
         
         ```bash
-        git clone https://github.com/lse-my472/lse-my472.github.io
+        git clone https://github.com/lse-my472/problem-set-1-mblukac
+        ```
+        
+        or you can do this directly in __RStudio__: 
+        
+        ```bash
+        File -> New Project... -> Version Control -> Git -> Repository URL: [paste the URL]
+        
+        -> [Create Project]
         ```
   
-    *  Knit the two `.Rmd` files, which will result in two new `.html` files.  After compiling the RMarkdown file, practice staging and pushing the compiled files to your own (forked) version of that repository.
-
   
-3. Practice the GitHub classroom workflow.
-
-    *  Access the GitHub Classroom for assignment 1 through:
-
-          [https://classroom.github.com/a/eP8zHQIG](https://classroom.github.com/a/eP8zHQIG)
-
-       Click on "accept this assignment" to set up the repository for this part of the assignment.  
-
-    *  Write your personal information on `information.md` and then commit the file.
+    *  Go to your local clone and open `information.md` (you can use RStudio or any text editor). Fill in your information.
     
-    *  Fix the RMarkdown file `RMarkdown-practice.Rmd` so that it can be compiled. Stage, commit, and push this change.
+    *  Save the file locally. We now have to stage, commit and push the changed file to your own (forked) version of the repository on GitHub.
+    
+         If you open GitHub Desktop, you should see the changes there. Add a comment, click **Commit** and **Push**
+         
+         If you work in RStudio, find "Git" in your upper-right pane. The file "information.md" should occur there. Tick "staged", click "Commit" and push with the green up-arrow.
+         
+    *  You can check whether it worked by opening GitHub in your browser and visiting your repository. The file "information.md" should now contain your information. (Sometimes it takes a few seconds to upload.)
+  
+3. Practice the GitHub workflow.
+
+    *  Go to your local repository and find `RMarkdown-practice.Rmd`.
+    
+    *  There is an error in the script. Fix it!
+    
+    *  Knit the file to `.html`.
+    
+    *  Stage, commit, and push the fixed `.Rmd` and the new `.html` to your repository. (Check if all worked via browser.)    
 
 Congratulations, you are finished!
 
+---
+
 4.  OPTIONAL: Create a personal web page.
+
+    *  GitHub offers a possibility to host your personal website for free.
 
     *  Clone a website repository, modify it, and publish a personal webpage.  You can follow the steps described in:
 
