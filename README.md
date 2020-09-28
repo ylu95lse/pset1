@@ -27,7 +27,7 @@ The goal of this first problem set is to make sure you know how to work with Git
         You could also have done this from a terminal window on your local machine using (the URL is from the green "Code" button)
         
         ```bash
-        git clone https://github.com/lse-my472/problem-set-1-mblukac
+        git clone https://github.com/lse-my472/problem-set-1-[your user name]
         ```
         
         or you can do this directly in __RStudio__: 
