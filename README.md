@@ -12,9 +12,7 @@ The goal of this first problem set is to make sure you know how to work with Git
 
 1. Get started with GitHub
 
-    *  This is your personal fork of the problem set.
-    
-    *  It is your own "fork" of the repository that we provided to you and you can edit it as much as you want.
+    *  This is your personal "fork" (i.e. copy) of the repository that we provided to you and you can edit it as much as you want.
     
     *  When you finish your work here and commit and push all the changes, we will be able to access them and give you comments. If you get stuck with your assignment, you can commit and push your code at any time and we can provide feedback to your work.
   
