@@ -1,7 +1,7 @@
 
 # MY472 - Data for Data Scientists
 
-## Problem Set 1
+## Assignment 0
 ---
 
 The goal of this first problem set is to make sure you know how to work with GitHub Classroom in order to access, complete, and submit assignments. You will not be evaluated on problem sets.
