@@ -10,6 +10,7 @@ Fix it and compile the RMarkdown file. Then, stage the changes and commit to you
 ```{r}
 a <- runif(n=99)
 b <- runif(n=100)
+c <- runif(n=101)
 x<-2
 plot(x, y)
 ```
